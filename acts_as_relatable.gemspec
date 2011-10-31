@@ -1,3 +1,5 @@
+# encoding: UTF-8
+
 Gem::Specification.new do |s|
   s.name        = "acts_as_relatable"
   s.version     = "0.0.5"
